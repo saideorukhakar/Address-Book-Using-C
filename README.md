@@ -2,7 +2,7 @@
 The Address Book Project is a console-based C application that manages contacts by storing names, phone numbers, and email addresses. It allows users to add, search, update, and delete contact details using standard input and output.
 
 
-
+/*
 =================================================================================================================
                                                     Project 1
                                               Address Book Using C
@@ -480,3 +480,4 @@ Enter the email id : prururajjathar1234@gmail.com
 ------------------------------------------
 
 Exiting...
+*/
